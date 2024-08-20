@@ -52,6 +52,10 @@ h3 {
     cursor: pointer;
 }
 
+.btn:hover {
+    background-color: #991299;
+}
+
 .btn:active {
     transform: scale(0.98);
 }
